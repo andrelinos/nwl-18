@@ -46,8 +46,8 @@ Describe your project
 
 :heavy_check_mark: Add goals;\
 :heavy_check_mark: List all goals ;\
-:heavy_check_mark: Mark goals in day;
-:heavy_check_mark: Uncheck in day;
+:heavy_check_mark: Mark goals in day;\
+:heavy_check_mark: Uncheck in day;\
 :heavy_check_mark: List percentual goals in week;
 
 ## :rocket: Technologies ##
