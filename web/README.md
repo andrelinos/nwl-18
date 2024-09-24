@@ -40,14 +40,14 @@
 
 ## :dart: About ##
 
-Describe your project
+io.orbit is a full-stack goal management application, developed using Fastify as the backend framework, Drizzle ORM for database interaction, along with other libraries for validation and API documentation generation. The application allows users to create goals, track completions, and generate weekly reports.
 
 ## :sparkles: Features ##
 
 :heavy_check_mark: Add goals;\
 :heavy_check_mark: List all goals ;\
 :heavy_check_mark: Mark goals in day;\
-:heavy_check_mark: Uncheck in day;\
+:heavy_check_mark: Uncheck goal;\
 :heavy_check_mark: List percentual goals in week;
 
 ## :rocket: Technologies ##
