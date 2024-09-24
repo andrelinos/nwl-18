@@ -4,11 +4,11 @@
 
 ## API
 
-- [Cliquei aqui para ver a api](https://github.com/andrelinos/nlw-18/server)
+- [Cliquei aqui para ver a api](https://github.com/andrelinos/nwl-18/tree/main/server)
 
 ## WEB
 
-- [Clique aqui para ver o web](https://github.com/andrelinos/nlw-18/web)
+- [Clique aqui para ver o web](https://github.com/andrelinos/nwl-18/tree/main/web)
 
 ## Imagens do projeto
 
