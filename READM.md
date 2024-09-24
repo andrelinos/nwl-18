@@ -12,12 +12,7 @@
 
 ## Imagens do projeto
 
-<div align="center" id="top">
   <img src="./.github/empty.png" alt="Web" />
   <img src="./.github/create-goal.png" alt="Web" />
   <img src="./.github/goals-empty.png" alt="Web" />
   <img src="./.github/goals.png" alt="Web" />
-
-  &#xa0;
-
-</div>
