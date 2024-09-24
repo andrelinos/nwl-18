@@ -38,6 +38,31 @@
 }
 ```
 
+## Iniciando o projeto
+
+1. Tenha instalado do docker em seu sistema
+
+2. Execute a inicialização do container
+
+```bash
+docker compose up -d
+```
+
+3. Execute a criação das tabeles do banco
+
+```bash
+npm run generate
+npm run migrate
+
+# Mais detalhes no package.json
+```
+
+4. Execute a aplicação
+
+```bash
+npm run dev
+  ```
+
 ## API Endpoints
 
 ### 1. Criar Meta (`/goals`)
